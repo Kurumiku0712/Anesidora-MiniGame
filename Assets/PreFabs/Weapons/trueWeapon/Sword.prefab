@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2571407549482268719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: shoot
+      value: Sword_Shoot
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: weaponName
+      value: "\u6309E\u6361\u8D77"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: idle
+      value: Sword_Idle
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 2718453721348544251, guid: 0a57fc9e3e0eb44439893af8f25c027d,
+        type: 3}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: CD
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: timing
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: shake
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: bulletForce
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: attack
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: cd1
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: cd2
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1621352590444013463, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: musicName
+      value: "sword\u97F3\u6548"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2075498858112542409, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.9285714
+      objectReference: {fileID: 0}
+    - target: {fileID: 2075498858112542409, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.9285714
+      objectReference: {fileID: 0}
+    - target: {fileID: 2075498858112542409, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.015045881
+      objectReference: {fileID: 0}
+    - target: {fileID: 2075498858112542409, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.9513831
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547682, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547692, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_Name
+      value: Sword
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353834934884547693, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8741675895944559304, guid: 29fa9baad26ba0f4e8df674577aae864,
+        type: 3}
+    - target: {fileID: 5655518708774270459, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 90411eee8e577c445bd76f26010e7c2b, type: 2}
+    - target: {fileID: 8130695784008772512, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_OnFocused.m_Background
+      value: 
+      objectReference: {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_OnFocused.m_TextColor.r
+      value: 0.5660378
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_OnFocused.m_TextColor.g
+      value: 0.51530796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_OnFocused.m_TextColor.b
+      value: 0.51530796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_OnFocused.m_TextColor.a
+      value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_FontSize
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: Info
+      value: "\u91CC\u6602\u7684\u9EC4\u91D1\u5251\uFF0C\u4F3C\u4E4E\u6709\u7740\u975E\u540C\u5BFB\u5E38\u7684\u529B\u91CF"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: _GUIStyle.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 434dc3c55a54b2344b2d61e869ebc842,
+        type: 3}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: info
+      value: "\u91CC\u6602\u7684\u9EC4\u91D1\u5251\uFF0C\u4F3C\u4E4E\u6709\u7740\u975E\u540C\u5BFB\u5E38\u7684\u529B\u91CF"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: power
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374757943003318336, guid: 95281ba2b17b6ed45b1b9bf510f69d34,
+        type: 3}
+      propertyPath: CD
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 95281ba2b17b6ed45b1b9bf510f69d34, type: 3}
