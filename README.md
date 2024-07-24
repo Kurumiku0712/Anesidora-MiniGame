@@ -3,6 +3,11 @@ Video Link: https://drive.google.com/file/d/1Gvk1vCgDrKr9t8bSBNAHB2wg2uDd_5OZ/vi
 
 File Link: https://docs.google.com/document/d/1P_dA1aNmg1mZ7Vz_efKpg1h0tuvdwl8L/edit?usp=drive_link&ouid=101368138502748597974&rtpof=true&sd=true
 
+Build: Unity2019.4.11  
+
+Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
+
+
 ## 1. 游戏综述
 
 ### 1.1 游戏概述
