@@ -17,9 +17,6 @@ Relevant Skills: Unity, C#, Photoshop, Premiere, Game Design, Project Management
 
 
 
-
-
-
 Build: Unity2019.4.11  
 
 Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
