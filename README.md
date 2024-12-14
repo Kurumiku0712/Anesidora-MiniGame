@@ -3,6 +3,23 @@ Video Link: https://drive.google.com/file/d/1Gvk1vCgDrKr9t8bSBNAHB2wg2uDd_5OZ/vi
 
 File Link: https://docs.google.com/document/d/1P_dA1aNmg1mZ7Vz_efKpg1h0tuvdwl8L/edit?usp=drive_link&ouid=101368138502748597974&rtpof=true&sd=true
 
+Project Description:
+
+A 2D roguelike game focusing on combat mechanics, map generation, and character animations. Delivered a fully functional game and published a demo.
+
+- Managed team task allocation and project progress, leading the team in defining game genre, gameplay mechanics, art style, and storyline development
+
+- Designed and implemented core features, including combat mechanics, map generation, character animations, weapon systems, enemy AI, and CG
+
+- Optimised enemy AI pathfinding using the A* algorithm, improving scene loading efficiency and ensuring smooth performance and stable gameplay
+
+Relevant Skills: Unity, C#, Photoshop, Premiere, Game Design, Project Management
+
+
+
+
+
+
 Build: Unity2019.4.11  
 
 Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
